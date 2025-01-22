@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGy/44f3Myg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monue\\Desktop\\Angula_task\\a1\\JsonViewerApi\\JsonViewerApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monue\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\monue\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
